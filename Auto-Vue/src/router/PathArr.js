@@ -1,0 +1,1 @@
+export default ['/home', '/home/console', '/home/console/consoleadd', '/home/console/consoleupdate']
